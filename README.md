@@ -35,3 +35,4 @@ To configure the RPC host, create a `.env` file and point it at your hub gRPC ho
 ```
 HUB_RPC=hostname:2283
 ```
+
